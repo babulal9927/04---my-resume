@@ -1,2 +1,2 @@
 ### For seeing Preview :- 
-[click here](http://127.0.0.1:5500/index.html)
+[click here](https://babulal9927.github.io/04---my-resume/)
